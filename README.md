@@ -1,4 +1,4 @@
-<img src="pic.jpeg" alt="image">
+<img src="pic.jpg" alt="image">
 
 # Amazon Fine Food Reviews Analysis
 
