@@ -1,3 +1,4 @@
+<img src="pic.jfif" alt="image">
 
 # Amazon Fine Food Reviews Analysis
 
