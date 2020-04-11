@@ -35,6 +35,8 @@ Attribute Information:
 ### Objective:
 Given a review, determine whether the review is POSITIVE OR NEGATIVE
 
+
+### It is very important to note that deep neural networks can easily fall in the trap of overfitting. This can be easily identified when the validation loss stops reducing for few continuous iterations but the loss keeps reducing. It is then that the model start to overfit and learns the input data exceptionally well resulting in poor performance on unseen data. This can be very well seen in the 17th epoch in ANN, where as LSTM keeps fluctuating. We can run more epochs to improve on the model. 
 <img src="img.jpg" alt="image">
 
 #### The data set needed preprocessing and cleaning. Sequential ANN and LSTM  are used with ADAM optimiser to achieve the task. Dive into code for detailed solution.
