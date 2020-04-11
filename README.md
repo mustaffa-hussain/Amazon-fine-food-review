@@ -35,5 +35,5 @@ Attribute Information:
 ### Objective:
 Given a review, determine whether the review is POSITIVE OR NEGATIVE
 
-#### The data set needed preprocessing and cleaning. Sequential ANNs are used with ADAM optimiser to achieve the task. Dive into code for detailed solution.
+#### The data set needed preprocessing and cleaning. Sequential ANN and LSTM  are used with ADAM optimiser to achieve the task. Dive into code for detailed solution.
 
